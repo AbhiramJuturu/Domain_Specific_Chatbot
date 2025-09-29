@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+faiss-cpu
+transformers
+torch
+sentence-transformers
+whisper
+gTTS
+sounddevice
+scipy
+pypdf
